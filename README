@@ -1,0 +1,4 @@
+This is pretty much a search/replace of the memcached driver.
+There are a few slight changes, however.
+Place file in system/libraries/Cache/drivers
+Make sure you add "memcache" to the "valid_drivers" array in system/libraries/Cache/Cache.php
