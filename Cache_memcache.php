@@ -25,7 +25,7 @@
  * @link		
  */
 
-class Cache_memcache extends CI_Driver {
+class CI_Cache_memcache extends CI_Driver {
 
 	private $_memcache;	// Holds the memcache object
 
